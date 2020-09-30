@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Team_Cavanagh_App</string>
+    <string name="facebook_app_id">813656866041591</string>
+    <string name="fb_login_protocol_scheme">fb813656866041591</string>
+</resources>

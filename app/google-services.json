@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291257684207",
+    "firebase_url": "https://teamcavanaghapp.firebaseio.com",
+    "project_id": "teamcavanaghapp",
+    "storage_bucket": "teamcavanaghapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291257684207:android:2559c7757add6a36778b1a",
+        "android_client_info": {
+          "package_name": "uk.co.teamcavanagh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291257684207-f7ks66r7bom1a9lfmgud3omt18k38dmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.co.teamcavanagh",
+            "certificate_hash": "d505190f78d05d0469468e42b2d9e07b4eabbd52"
+          }
+        },
+        {
+          "client_id": "291257684207-115u31096cotbclugs25m29amb95jj0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_OSbjsf9MnbDfz2kJjhgXMW4GmeUix08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291257684207-115u31096cotbclugs25m29amb95jj0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
